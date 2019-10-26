@@ -2,7 +2,9 @@
 
 Icon set for the Bigtreetech TFT 3.5" V1.2 (and possibly others).
 
-(bmp/Home.bmp) (bmp/Print.bmp) (bmp/Preheat.bmp)
+![Home](bmp/Home.bmp) 
+![Print](bmp/Print.bmp) 
+![Preheat](bmp/Preheat.bmp)
 
 ## Installation
 
