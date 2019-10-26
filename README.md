@@ -1,4 +1,4 @@
-# Project Title
+# Simple Icons for Bigtreetech TFT
 
 Icon set for the Bigtreetech TFT 3.5" V1.2 (and possibly others).
 
